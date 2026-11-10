@@ -1,0 +1,175 @@
+{
+  "site": "https://ai.dreamthere.cn",
+  "checkedAt": "2026-11-10T23:16:03.059902+08:00",
+  "links": [
+    {
+      "url": "https://ai.dreamthere.cn/",
+      "finalUrl": "https://ai.dreamthere.cn/",
+      "title": "AI工具发现平台 · 发现工具",
+      "canonical": "https://ai.dreamthere.cn/",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/cate/text",
+      "finalUrl": "https://ai.dreamthere.cn/cate/text",
+      "title": "AI工具发现平台 · 文本",
+      "canonical": "https://ai.dreamthere.cn/cate/text",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/cate/img",
+      "finalUrl": "https://ai.dreamthere.cn/cate/img",
+      "title": "AI工具发现平台 · 图片",
+      "canonical": "https://ai.dreamthere.cn/cate/img",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/cate/code",
+      "finalUrl": "https://ai.dreamthere.cn/cate/code",
+      "title": "AI工具发现平台 · 代码",
+      "canonical": "https://ai.dreamthere.cn/cate/code",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/cate/video",
+      "finalUrl": "https://ai.dreamthere.cn/cate/video",
+      "title": "AI工具发现平台 · 视频",
+      "canonical": "https://ai.dreamthere.cn/cate/video",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/cate/office",
+      "finalUrl": "https://ai.dreamthere.cn/cate/office",
+      "title": "AI工具发现平台 · 办公",
+      "canonical": "https://ai.dreamthere.cn/cate/office",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/cate/agent",
+      "finalUrl": "https://ai.dreamthere.cn/cate/agent",
+      "title": "AI工具发现平台 · agent",
+      "canonical": "https://ai.dreamthere.cn/cate/agent",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/cate/rpa",
+      "finalUrl": "https://ai.dreamthere.cn/cate/rpa",
+      "title": "AI工具发现平台 · RPA",
+      "canonical": "https://ai.dreamthere.cn/cate/rpa",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/site/7929.html",
+      "finalUrl": "https://ai.dreamthere.cn/site/7929.html",
+      "title": "AI工具发现平台 · Flowith",
+      "canonical": "https://ai.dreamthere.cn/site/7929.html",
+      "metaRobots": "index, follow",
+      "status": 200,
+      "xRobotsTag": null,
+      "inSitemap": true,
+      "contentVerified": true,
+      "notes": "已检查目标内容；响应头未出现 X-Robots-Tag。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/site/compare",
+      "finalUrl": "https://ai.dreamthere.cn/site/compare",
+      "title": "工具比较 - AI工具发现平台",
+      "canonical": "https://ai.dreamthere.cn/site/compare",
+      "metaRobots": "noindex,nofollow",
+      "status": 200,
+      "xRobotsTag": "noindex, nofollow",
+      "inSitemap": false,
+      "contentVerified": true,
+      "notes": "已检查目标内容。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/site/saved",
+      "finalUrl": "https://ai.dreamthere.cn/site/saved",
+      "title": "我的收藏 - AI工具发现平台",
+      "canonical": "https://ai.dreamthere.cn/site/saved",
+      "metaRobots": "noindex,nofollow",
+      "status": 200,
+      "xRobotsTag": "noindex, nofollow",
+      "inSitemap": false,
+      "contentVerified": true,
+      "notes": "已检查目标内容。"
+    },
+    {
+      "url": "https://ai.dreamthere.cn/site/submit",
+      "finalUrl": "https://ai.dreamthere.cn/site/submit",
+      "title": "推荐一个工具 - AI工具发现平台",
+      "canonical": null,
+      "metaRobots": "noindex,nofollow",
+      "status": 200,
+      "xRobotsTag": "noindex, nofollow",
+      "inSitemap": false,
+      "contentVerified": true,
+      "notes": "已检查目标内容。"
+    }
+  ],
+  "robotsTxt": {
+    "url": "https://ai.dreamthere.cn/robots.txt",
+    "status": 200,
+    "content": "# robots.txt for https://ai.dreamthere.cn\n\nUser-agent: *\n\nDisallow: /admin/\nDisallow: /login/\nDisallow: /register/\nDisallow: /site/redirect/\nAllow: /\n\nsitemap: https://ai.dreamthere.cn/sitemap/sitemap.xml\n"
+  },
+  "sitemap": {
+    "indexUrl": "https://ai.dreamthere.cn/sitemap/sitemap.xml",
+    "indexStatus": 200,
+    "shards": [
+      {
+        "url": "https://ai.dreamthere.cn/sitemap/31dea0892eb97a82b96839e455a965d76af9f4cad0d17fa0ef1dce6ff562241a/part-00001.xml",
+        "status": 200,
+        "urlCount": 12158
+      }
+    ]
+  },
+  "issues": [
+    "首页 FAQ 提到详情反馈，但抽查 Flowith 详情页未发现反馈入口。",
+    "第三方工具详情资料有待补充和未核验字段，不作为已测试推荐。"
+  ],
+  "limits": [
+    "未验证第三方产品服务、价格或推荐跳转最终域名。",
+    "HTTP 与 sitemap 结果不代表搜索引擎收录。",
+    "目标仓库尚未明确；未发布。"
+  ]
+}
